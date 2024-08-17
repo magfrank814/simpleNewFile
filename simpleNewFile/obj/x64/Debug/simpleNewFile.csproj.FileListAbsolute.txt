@@ -1,0 +1,9 @@
+D:\simpleNewFile\simpleNewFile\simpleNewFile\bin\x64\Debug\simpleNewFile.exe.config
+D:\simpleNewFile\simpleNewFile\simpleNewFile\bin\x64\Debug\simpleNewFile.exe
+D:\simpleNewFile\simpleNewFile\simpleNewFile\bin\x64\Debug\simpleNewFile.pdb
+D:\simpleNewFile\simpleNewFile\simpleNewFile\obj\x64\Debug\simpleNewFile.csproj.AssemblyReference.cache
+D:\simpleNewFile\simpleNewFile\simpleNewFile\obj\x64\Debug\simpleNewFile.Properties.Resources.resources
+D:\simpleNewFile\simpleNewFile\simpleNewFile\obj\x64\Debug\simpleNewFile.csproj.GenerateResource.cache
+D:\simpleNewFile\simpleNewFile\simpleNewFile\obj\x64\Debug\simpleNewFile.csproj.CoreCompileInputs.cache
+D:\simpleNewFile\simpleNewFile\simpleNewFile\obj\x64\Debug\simpleNewFile.exe
+D:\simpleNewFile\simpleNewFile\simpleNewFile\obj\x64\Debug\simpleNewFile.pdb

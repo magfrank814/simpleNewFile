@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\simpleNewFile\\simpleNewFile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44EDA21B-B141-43B2-8E68-5008F05E145F}|simpleNewFile_setup\\simpleNewFile_setup.csproj|d:\\simplenewfile\\simplenewfile\\simplenewfile_setup\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EDA21B-B141-43B2-8E68-5008F05E145F}|simpleNewFile_setup\\simpleNewFile_setup.csproj|solutionrelative:simplenewfile_setup\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EDA21B-B141-43B2-8E68-5008F05E145F}|simpleNewFile_setup\\simpleNewFile_setup.csproj|d:\\simplenewfile\\simplenewfile\\simplenewfile_setup\\completed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EDA21B-B141-43B2-8E68-5008F05E145F}|simpleNewFile_setup\\simpleNewFile_setup.csproj|solutionrelative:simplenewfile_setup\\completed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EDA21B-B141-43B2-8E68-5008F05E145F}|simpleNewFile_setup\\simpleNewFile_setup.csproj|d:\\simplenewfile\\simplenewfile\\simplenewfile_setup\\completed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44EDA21B-B141-43B2-8E68-5008F05E145F}|simpleNewFile_setup\\simpleNewFile_setup.csproj|solutionrelative:simplenewfile_setup\\completed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EDA21B-B141-43B2-8E68-5008F05E145F}|simpleNewFile_setup\\simpleNewFile_setup.csproj|d:\\simplenewfile\\simplenewfile\\simplenewfile_setup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EDA21B-B141-43B2-8E68-5008F05E145F}|simpleNewFile_setup\\simpleNewFile_setup.csproj|solutionrelative:simplenewfile_setup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EDA21B-B141-43B2-8E68-5008F05E145F}|simpleNewFile_setup\\simpleNewFile_setup.csproj|d:\\simplenewfile\\simplenewfile\\simplenewfile_setup\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44EDA21B-B141-43B2-8E68-5008F05E145F}|simpleNewFile_setup\\simpleNewFile_setup.csproj|solutionrelative:simplenewfile_setup\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\simpleNewFile\\simpleNewFile\\simpleNewFile_setup\\Form1.cs",
+              "RelativeDocumentMoniker": "simpleNewFile_setup\\Form1.cs",
+              "ToolTip": "D:\\simpleNewFile\\simpleNewFile\\simpleNewFile_setup\\Form1.cs",
+              "RelativeToolTip": "simpleNewFile_setup\\Form1.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAQwIQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T10:31:22.816Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Completed.cs",
+              "DocumentMoniker": "D:\\simpleNewFile\\simpleNewFile\\simpleNewFile_setup\\Completed.cs",
+              "RelativeDocumentMoniker": "simpleNewFile_setup\\Completed.cs",
+              "ToolTip": "D:\\simpleNewFile\\simpleNewFile\\simpleNewFile_setup\\Completed.cs",
+              "RelativeToolTip": "simpleNewFile_setup\\Completed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:54:09.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\simpleNewFile\\simpleNewFile\\simpleNewFile_setup\\Program.cs",
+              "RelativeDocumentMoniker": "simpleNewFile_setup\\Program.cs",
+              "ToolTip": "D:\\simpleNewFile\\simpleNewFile\\simpleNewFile_setup\\Program.cs",
+              "RelativeToolTip": "simpleNewFile_setup\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:14:28.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Completed.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\simpleNewFile\\simpleNewFile\\simpleNewFile_setup\\Completed.cs",
+              "RelativeDocumentMoniker": "simpleNewFile_setup\\Completed.cs",
+              "ToolTip": "D:\\simpleNewFile\\simpleNewFile\\simpleNewFile_setup\\Completed.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "simpleNewFile_setup\\Completed.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T12:55:35.055Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\simpleNewFile\\simpleNewFile\\simpleNewFile_setup\\Form1.cs",
+              "RelativeDocumentMoniker": "simpleNewFile_setup\\Form1.cs",
+              "ToolTip": "D:\\simpleNewFile\\simpleNewFile\\simpleNewFile_setup\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "simpleNewFile_setup\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T10:30:51.197Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

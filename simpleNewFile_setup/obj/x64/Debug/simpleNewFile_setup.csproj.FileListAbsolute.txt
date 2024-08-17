@@ -1,0 +1,13 @@
+D:\simpleNewFile\simpleNewFile\simpleNewFile_setup\bin\x64\Debug\simpleNewFile_setup.exe.config
+D:\simpleNewFile\simpleNewFile\simpleNewFile_setup\bin\x64\Debug\simpleNewFile_setup.exe
+D:\simpleNewFile\simpleNewFile\simpleNewFile_setup\bin\x64\Debug\simpleNewFile_setup.pdb
+D:\simpleNewFile\simpleNewFile\simpleNewFile_setup\obj\x64\Debug\simpleNewFile_setup.csproj.AssemblyReference.cache
+D:\simpleNewFile\simpleNewFile\simpleNewFile_setup\obj\x64\Debug\simpleNewFile_setup.Properties.Resources.resources
+D:\simpleNewFile\simpleNewFile\simpleNewFile_setup\obj\x64\Debug\simpleNewFile_setup.csproj.GenerateResource.cache
+D:\simpleNewFile\simpleNewFile\simpleNewFile_setup\obj\x64\Debug\simpleNewFile_setup.csproj.CoreCompileInputs.cache
+D:\simpleNewFile\simpleNewFile\simpleNewFile_setup\obj\x64\Debug\simpleNewFile_setup.exe
+D:\simpleNewFile\simpleNewFile\simpleNewFile_setup\obj\x64\Debug\simpleNewFile_setup.pdb
+D:\simpleNewFile\simpleNewFile\simpleNewFile_setup\obj\x64\Debug\simpleNewFile_setup.Form1.resources
+D:\simpleNewFile\simpleNewFile\simpleNewFile_setup\obj\x64\Debug\simpleNewFile_setup.error.resources
+D:\simpleNewFile\simpleNewFile\simpleNewFile_setup\obj\x64\Debug\simpleNewFile_setup.Resources1.resources
+D:\simpleNewFile\simpleNewFile\simpleNewFile_setup\obj\x64\Debug\simpleNewFile_setup.Completed.resources
